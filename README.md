@@ -4,6 +4,12 @@ this is a game like RPS for the 5 senses
 
 static image of person which changes color on pointer hover
 
-__
+I think all the HTML/CSS is relatively in place. 
 
-I think all the HTML/CSS is in place. Need to confirm.
+Game logic next.
+
+# launch
+
+npx serve .
+(y)
+http://localhost:3000
